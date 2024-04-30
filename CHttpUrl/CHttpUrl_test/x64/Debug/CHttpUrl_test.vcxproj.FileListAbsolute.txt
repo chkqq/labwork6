@@ -1,0 +1,1 @@
+D:\oop\labwork6\CHttpUrl\CHttpUrl_test\x64\Debug\CHttpUrl_test.vcxproj.CopyComplete
