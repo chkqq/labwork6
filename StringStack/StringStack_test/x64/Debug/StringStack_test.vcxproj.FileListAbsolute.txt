@@ -1,0 +1,1 @@
+D:\oop\labwork6\StringStack\StringStack_test\x64\Debug\StringStack_test.vcxproj.CopyComplete
