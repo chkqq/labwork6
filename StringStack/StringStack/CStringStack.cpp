@@ -77,6 +77,7 @@ void CStringStack::pop()
     {
         throw std::out_of_range("Stack underflow: trying to pop from empty stack");
     }
+    data[size - 1].clear();
     --size;
 }
 

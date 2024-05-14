@@ -1,4 +1,6 @@
 ﻿  CHttpUrl.cpp
+  CUrlParsingError.cpp
   main.cpp
   Создание кода...
+  LINK : не найден или не выполнена сборка D:\oop\labwork6\CHttpUrl\x64\Debug\CHttpUrl.exe при последней инкрементной компоновке; выполняется полная компоновка
   CHttpUrl.vcxproj -> D:\oop\labwork6\CHttpUrl\x64\Debug\CHttpUrl.exe

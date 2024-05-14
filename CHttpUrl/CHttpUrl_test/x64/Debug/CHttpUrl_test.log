@@ -1,2 +1,4 @@
-﻿  test.cpp
+﻿  pch.cpp
+  test.cpp
+  LINK : не найден или не выполнена сборка D:\oop\labwork6\CHttpUrl\x64\Debug\CHttpUrl_test.exe при последней инкрементной компоновке; выполняется полная компоновка
   CHttpUrl_test.vcxproj -> D:\oop\labwork6\CHttpUrl\x64\Debug\CHttpUrl_test.exe
